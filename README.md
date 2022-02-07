@@ -1,0 +1,1 @@
+The current project is to create a website with a number of pages containing recipes. This will involve images, headings, relate link, and so on.
